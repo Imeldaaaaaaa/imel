@@ -74,7 +74,7 @@
         <div>
             <img src="/images/imel.jpg" alt="Baker 1">
         </div>
-        <h2>Imelda Saputri</h2>
+        <h2>Imelda Dwi Saputri</h2>
         <p>CEO</p>
     </div>
     <footer>
